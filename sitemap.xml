@@ -8,20 +8,42 @@
   </url>
   
   <url>
+    <loc>/_header.html</loc>
+    <lastmod>2019-12-05T03:31:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/blockchain.html</loc>
+    <lastmod>2019-12-05T03:31:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/blockchain.html</loc>
+    <lastmod>2019-12-05T03:31:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories.html</loc>
+    <lastmod>2019-12-05T03:31:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/consensus.html</loc>
+    <lastmod>2019-12-05T03:31:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+    <lastmod>2019-12-05T03:31:48+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blockchain/consensus.html</loc>
     <lastmod>2019-12-05T03:15:02+09:00</lastmod>
   </url>
   
   <url>
     <loc>/blockchain.html</loc>
-  </url>
-  
-  <url>
-    <loc>/categories.html</loc>
-  </url>
-  
-  <url>
-    <loc>/tags.html</loc>
   </url>
   
 </urlset>
