@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-05T03:32:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blockchain/consensus.html</loc>
+    <lastmod>2019-12-05T03:15:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blockchain.html</loc>
+  </url>
+  
+  <url>
+    <loc>/categories.html</loc>
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+  </url>
+  
+</urlset>
